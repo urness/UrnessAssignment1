@@ -2,7 +2,7 @@
 // date: February 2, 2021
 // description: Intro to WebGL -- a triangle!
 
-"use strict";
+"use strict"; 
 
 var gl;
 var points;
